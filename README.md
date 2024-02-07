@@ -1,4 +1,4 @@
-# Hello world!
+# Hello, world!
 
 My name is Tatyana and am interested in QA.
 
